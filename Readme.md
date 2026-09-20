@@ -69,3 +69,4 @@ An automated, enterprise-grade evaluation pipeline that implements **LLM-as-a-Ju
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+Note: Readme was created using Gemini.
